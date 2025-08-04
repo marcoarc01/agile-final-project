@@ -7,17 +7,17 @@ assignees: ''
 
 ---
 
-**Como um** [papel]  
- **Eu preciso** [função]  
- **Para que** [benefício]  
+**As a** [role]  
+ **I need** [function]  
+ **So that** [benefit]  
    
- ### Detalhes e Suposições
- * [documente o que você sabe]
+ ### Details and Assumptions
+ * [document what you know]
    
- ### Critérios de Aceitação  
+ ### Acceptance Criteria  
    
  ```gherkin
- Dado [algum contexto]
- Quando [uma certa ação é realizada]
- Então [o resultado da ação é observado]
+ Given [some context]
+ When [certain action is taken]
+ Then [the outcome of action is observed]
  ```
